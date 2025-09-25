@@ -25,8 +25,9 @@ Pruebas manuales de la aplicación móvil **Urban.Lunch**, enfocadas en flujos p
 
 ---
 
-## 📄 Documentación completa
+# 📄 Documentación completa
 📌 [Ver documentación en Google Sheets](https://docs.google.com/spreadsheets/d/1WdPuxF7HGBQdSnRx216eLNqmWvRSKTtg/edit?usp=sharing&ouid=112657294087284506568&rtpof=true&sd=true)
+
 ---
 
 ## 🚀 Conclusión
